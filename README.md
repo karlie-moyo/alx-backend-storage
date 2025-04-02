@@ -1,6 +1,9 @@
 #UoS Backend Storage
+
 ![image](https://github.com/user-attachments/assets/5838f5a7-d57b-4393-af84-95a4df23c0ca)
+
 The system used to store, retrieve, and manage data in server-side applications. It can include databases (SQL or NoSQL), file storage systems, or cloud storage, and is crucial for handling large amounts of data, ensuring security, scalability, and quick access.
+
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 0x00  | [MySQL Advanced](./0x00-MySQL_Advanced/)                                                                                                               |**MySQL Advanced** covers advanced features of MySQL, including complex queries, indexing, optimization techniques, stored procedures, triggers, transactions, and replication, aimed at improving performance, scalability, and managing large databases effectively.|            
