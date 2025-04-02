@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/5838f5a7-d57b-4393-af84-95a4df23c0ca)
 
+![image](https://github.com/user-attachments/assets/b4c0cc0a-8aca-46a3-b4a9-64add2d431b5)
+
+
 The system used to store, retrieve, and manage data in server-side applications. It can include databases (SQL or NoSQL), file storage systems, or cloud storage, and is crucial for handling large amounts of data, ensuring security, scalability, and quick access.
 
 | PR.NO | PROJECT                                                                                                                                                 | DESCRIPTION |
